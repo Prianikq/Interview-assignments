@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<store>
+	<category name="овощи">
+		<vagetable>
+			<name>Картофель</name>
+			<price>21</price>
+			<manufacturer>Белорусский фермер</manufacturer>
+		</vagetable>
+		<vagetable>
+			<name>Кабачок</name>
+			<price>42</price>
+			<manufacturer>Плоды Астрахани</manufacturer>
+		</vagetable>
+		<vagetable>
+			<name>Капуста</name>
+			<price>12</price>
+			<manufacturer>Подмосковные теплицы</manufacturer>
+		</vagetable>
+	</category>
+	<category name="напитки">
+		<drink>
+			<name>Пепси-Кола</name>
+			<price>100500</price>
+			<manufacturer>Пепси Ко</manufacturer>
+		</drink>
+		<drink>
+			<name>Сок</name>
+			<price>100</price>
+			<manufacturer>Сады Придонья</manufacturer>
+		</drink>
+	</category>
+</store>
